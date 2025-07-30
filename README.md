@@ -1,2 +1,3 @@
 # JAVASCRIPT
-Leanrning Javascript chai aur code
+Leanrning Javascript with chai aur code
+Havascript in 1 shot in Hindi

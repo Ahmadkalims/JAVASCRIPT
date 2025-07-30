@@ -41,3 +41,20 @@ const myFunction = function (){
     console.log("Hello world");
 }
 
+// +++++++++++++++++++++++++++++++++++++++++++++++
+
+// there are two types of memory
+// Stack (Primitive), Heap (Non-Primitive)
+
+let myYoutubename = "aklipsedotcom"
+
+let anothername = myYoutubename;
+anothername ="chaiaurcode"
+
+console.log(anothername)
+
+let userOne = {
+    email: "user@google.com",
+    upi; "user@sbi"
+}
+

@@ -30,8 +30,8 @@ const heros =  ["Spiderman", "Black Panther" , "Ironman"];
 
 
 // Object
-let my Obj = {
-    name; "Ahmad",
+let myObj = {
+    name: "Ahmad",
     age: 24,
 }
 
@@ -55,6 +55,6 @@ console.log(anothername)
 
 let userOne = {
     email: "user@google.com",
-    upi; "user@sbi"
+    upi: "user@sbi"
 }
 

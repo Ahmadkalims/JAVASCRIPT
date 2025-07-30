@@ -42,3 +42,58 @@ console.log(stringNumber);
 console.log(typeof stringNumber);
 
 
+//**************** Operations ***************** */
+
+
+//negation of a number
+let value = 3;
+let negValue = -value;
+console.log(negValue);
+
+//arithemetic operations
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2/2);
+console.log(2%2);
+
+// string concatenation
+let str1="Hello"
+let str2 = " Ahmad"
+
+let str = str1+str2;
+console.log(str3);
+
+
+// operation behavior in console.log inline
+console.log("1" + 2); // 12
+console.log(1 + "2"); // 12
+console.log("1" + 2 + 2); // 122
+console.log(1 + 2 + "2"); // 32 
+// use parenthesis to make more sense
+console.log( (3 + 4) *5 % 3)
+
+
+//tricky conversions
+
+console.log(+true) // 1
+console.log(+"") // 0
+
+//assignment operator
+let num1, num2, num3
+num1 = num2 = num3 = 2 + 2;
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
+//101
+
+
+
+
+
+
+
+
+
